@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 100px;
+  margin-right: 100px;
+  color: #505257;
+}
+
+h1{
+  padding-top: 10px;
+  text-align: center;
+}
+
+h4{
+  padding-right: 50px;
+  text-align: right;
+}
+
+.box{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading{
+  background-color: #2a2d2e;
+  color: whitesmoke;
+  padding-bottom: 1px;
+  width: 100%;
+}

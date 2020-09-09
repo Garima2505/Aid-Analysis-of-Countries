@@ -1,0 +1,1577 @@
+[
+    {
+    "donar": "Saudi Arabia",
+    "receiver": "India",
+    "purposes": [{
+        "purpose": "Rail transport",
+        "amount":79371799
+    }
+                ]
+    },
+    {
+    "donar": "Saudi Arabia",
+    "receiver": "Thailand",
+    "purposes": [{
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 95676536
+    }
+                ]
+    },
+    
+    {
+    "donar": "Kuwait",
+    "receiver": "India",
+    "purposes": [{
+        "purpose": "Industrial development",
+        "amount" : 131175647
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 149282062
+    }
+                ]
+    },
+    
+    {
+    "donar": "Kuwait",
+    "receiver": "Thailand",
+    "purposes": [{
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 65310902
+    }     
+                ]
+    },
+    
+    {
+    "donar": "United States",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 675643062
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 777158312
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 67384606
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 16601
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1295117393
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 2273859378
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 1518862446
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 35997362
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 789030171
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 221288646
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 1530577061
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 154388
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "Korea",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 866792664
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 5260158081
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 1397886659
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 105533013
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "Saudi Arabia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 254167658
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 3423114025
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 126190249
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 386553
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 9681699
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 840454769
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 1620571
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 533570
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1460262364
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 1378790278
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 619621837
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 18742
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1785108528
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 3456194517
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 999174363
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 309560040
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 548534715
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 815085967
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 396007
+    }
+                ]
+},
+    {
+    "donar": "United States",
+    "receiver": "Kuwait",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 278059881
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 24748632
+    }
+                ]
+},
+    {
+    "donar": "Norway",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 160646315
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 2316419
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 322
+    }
+                ]
+},
+    {
+    "donar": "Norway",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 15424548
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 13527
+    },
+                 {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 13640
+    },
+                 {
+        "purpose": "Rail transport",
+        "amount" : 24172
+    }
+                ]
+},
+    {
+    "donar": "Norway",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 6304303
+    },
+                 {
+        "purpose": "Air transport",
+        "amount" : 60502
+    }
+                ]
+},
+    {
+    "donar": "Norway",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 80831
+    }
+                ]
+},
+     {
+    "donar": "Norway",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 392917
+    }
+                ]
+},
+    {
+    "donar": "Belgium",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 7238
+    }
+                ]
+},
+    {
+    "donar": "Belgium",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 437122
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 471552
+    }
+                ]
+},
+    {
+    "donar": "Belgium",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1152172
+    },
+        {
+        "purpose": "RESCHEDULING AND REFINANCING",
+        "amount" : 95301312
+    }
+                ]
+},
+    {
+    "donar": "Belgium",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 522868
+    }
+                ]
+},
+    {
+    "donar": "Belgium",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 223779
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 859652
+    }
+                ]
+},
+    {
+    "donar": "Belgium",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "RESCHEDULING AND REFINANCING",
+        "amount" : 797173879
+    }
+                ]
+},
+    {
+    "donar": "Belgium",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 3765246
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 430774
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 125252
+    }
+                ]
+},
+    {
+    "donar": "Spain",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1386496
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 19497
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 6797785
+    }
+                ]
+},
+    {
+    "donar": "Spain",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1110417
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 140375
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 140677
+    }
+                ]
+},
+    {
+    "donar": "Spain",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 2505456
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 20706
+    }
+                ]
+},
+    {
+    "donar": "Spain",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 3329991
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 470750
+    }
+                ]
+},
+    {
+    "donar": "Spain",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 32435
+    }
+                ]
+},
+    {
+    "donar": "Germany",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1768993054
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 284985226
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 1564258419
+    }
+                ]
+},
+        {
+    "donar": "Germany",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 166368356
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 162391210
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 54313899
+    }
+                ]
+},
+        {
+    "donar": "Germany",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 937574
+    }
+                ]
+},
+        {
+    "donar": "Germany",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "RESCHEDULING AND REFINANCING",
+        "amount" : 13905028436
+    }
+                ]
+},
+        {
+    "donar": "Germany",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 53036463
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 191557984
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 33166434
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 15829434
+    }
+                ]
+},
+        {
+    "donar": "Germany",
+    "receiver": "Korea",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 75072695
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 29015007
+    }
+                ]
+},
+        {
+    "donar": "Germany",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 82355164
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 39749314
+    }
+                ]
+},
+        {
+    "donar": "Germany",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 12253925
+    }
+                ]
+},
+        {
+    "donar": "Italy",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 780657
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 15677
+    }
+                ]
+},
+        {
+    "donar": "Italy",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 254284699
+    }
+                ]
+},
+        {
+    "donar": "Italy",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 8956908
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 12425310
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 30399251
+    }
+                ]
+},
+        {
+    "donar": "Italy",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 569118
+    }
+                ]
+},
+        {
+    "donar": "Italy",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 5914647
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 1342614
+    }
+                ]
+},
+        {
+    "donar": "Italy",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Rail transport",
+        "amount" : 1488852
+    }
+                ]
+},
+    {
+    "donar": "Finland",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 31746338
+    }
+                ]
+},
+        {
+    "donar": "Finland",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 58111179
+    }
+                ]
+},
+        {
+    "donar": "Finland",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 7517
+    }
+                ]
+},
+        {
+    "donar": "Finland",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 6313047
+    }
+                ]
+},
+        {
+    "donar": "Canada",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 29748658
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 17693
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 6054352
+    }
+                ]
+},
+        {
+    "donar": "Canada",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 18676468
+    }
+                ]
+},
+        {
+    "donar": "Canada",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 23245209
+    }
+                ]
+},
+        {
+    "donar": "Canada",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 54685827
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 14224407
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 19357050
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 159410
+    }
+                ]
+},
+        {
+    "donar": "Canada",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 26700909
+    }
+                ]
+},
+        {
+    "donar": "Canada",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 70008809
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 443224
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 26416174
+    }
+                ]
+},
+        {
+    "donar": "Canada",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 3662485
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 1476778
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 56107
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 301942282
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 1249130
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 100165
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 5379848
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 67201891
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 161290
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 23
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 26351
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 2540561929
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 11519785524
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 4087006797
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1348021971
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 2648319527
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 22364340
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 5249205847
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 185091
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 65416241
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "Korea",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 508053866
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 903052049
+    }
+                ]
+},
+        {
+    "donar": "Japan",
+    "receiver": "Saudi Arabia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 222224525
+    }
+                ]
+},
+        {
+    "donar": "Australia",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 26897
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 75135
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 36367087
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 270795
+    }
+                ]
+},
+        {
+    "donar": "Australia",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 24434534
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 2671116
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 3917484
+    }
+                ]
+},
+        {
+    "donar": "Australia",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 91287
+    }
+                ]
+},
+    {
+    "donar": "Korea",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1096198
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 52335
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 111908
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 109423
+    }
+                ]
+},
+        {
+    "donar": "Korea",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Air transport",
+        "amount" : 28586
+    }
+                ]
+},
+        {
+    "donar": "Korea",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 123207
+    }
+                ]
+},
+        {
+    "donar": "Korea",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 344229
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 58854
+    }
+                ]
+},
+        {
+    "donar": "United Kingdom",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 141881911
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 226060281
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 214915085
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 621381168
+    }
+                ]
+},
+        {
+    "donar": "United Kingdom",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 39174808
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 98816805
+    }
+                ]
+},
+        {
+    "donar": "United Kingdom",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 29567081
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 68659652
+    }
+                ]
+},
+        {
+    "donar": "United Kingdom",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" :37674165
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 2702617
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 411633
+    }
+                ]
+},
+        {
+    "donar": "United Kingdom",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1214104
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 10098161
+    }
+                ]
+},
+        {
+    "donar": "United Kingdom",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 123175026
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 12874688
+    }
+                ]
+},
+        {
+    "donar": "Switzerland",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 76369785
+    }
+                ]
+},
+        {
+    "donar": "Switzerland",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 743149
+    }
+                ]
+},
+        {
+    "donar": "Switzerland",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1984348
+    }
+                ]
+},
+        {
+    "donar": "Switzerland",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1034972
+    }
+                ]
+},
+        {
+    "donar": "Switzerland",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 6063103
+    }
+                ]
+},
+        {
+    "donar": "Switzerland",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 2665028
+    }
+                ]
+},
+        
+        {
+    "donar": "France",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Rail transport",
+        "amount" : 1034209
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 2331311
+    }
+                ]
+},
+        {
+    "donar": "France",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 524894
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 859097
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 138444885
+    }
+                ]
+},
+        {
+    "donar": "France",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Rail transport",
+        "amount" : 111245166
+    }
+                ]
+},
+        {
+    "donar": "France",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 736412685
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 93048552
+    },
+            {
+        "purpose": "Rail transport",
+        "amount" : 165780050
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 238543251
+    }
+                ]
+},
+        {
+    "donar": "France",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 23981834
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 638493
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 109211256
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 9766637
+    }
+                ]
+},
+        {
+    "donar": "France",
+    "receiver": "Korea",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 28328996
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 22092
+    }
+                ]
+},
+        {
+    "donar": "France",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 2174876
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 1262932
+    }
+                ]
+},
+        {
+    "donar": "France",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 11935741
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 19509180
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 187097740
+    }
+                ]
+},
+        {
+    "donar": "Sweden",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 13259316
+    }
+                ]
+},
+        {
+    "donar": "Sweden",
+    "receiver": "Chile",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1084383
+    }
+                ]
+},
+        {
+    "donar": "Sweden",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1198432
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 64374
+    }
+                ]
+},
+        {
+    "donar": "Sweden",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 12572753
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 4306879
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 26060699
+    }
+                ]
+},
+        {
+    "donar": "Sweden",
+    "receiver": "Poland",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 589007
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 250129
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 383
+    }
+                ]
+},
+        {
+    "donar": "Denmark",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 4467244
+    }
+                ]
+},
+        {
+    "donar": "Denmark",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 160372258
+    }
+                ]
+},
+        {
+    "donar": "Denmark",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 7334447
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 5010773
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 593723
+    }
+                ]
+},
+        {
+    "donar": "Denmark",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 200450
+    }
+                ]
+},
+        {
+    "donar": "Netherlands",
+    "receiver": "South Africa",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 1380782
+    }
+                ]
+},
+        {
+    "donar": "Netherlands",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 50767936
+    },
+        {
+        "purpose": "Air transport",
+        "amount" : 704628
+    },
+        {
+        "purpose": "Rail transport",
+        "amount" : 42065271
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 724396
+    }
+                ]
+},
+        {
+    "donar": "Netherlands",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 2025344
+    }
+                ]
+},
+        {
+    "donar": "Netherlands",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 13813129
+    }
+                ]
+},
+        {
+    "donar": "Austria",
+    "receiver": "Brazil",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 5167098
+    }
+                ]
+},
+        {
+    "donar": "Austria",
+    "receiver": "Thailand",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 2281844
+    }
+                ]
+},
+        {
+    "donar": "Austria",
+    "receiver": "India",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 8081078
+    },
+        {
+        "purpose": "Power generation/non-renewable sources",
+        "amount" : 8081078
+    }
+                ]
+},
+        {
+    "donar": "Austria",
+    "receiver": "Saudi Arabia",
+    "purposes": [
+        {
+        "purpose": "Industrial development",
+        "amount" : 203662
+    }
+                ]
+},
+        {
+    "donar": "Austria",
+    "receiver": "Colombia",
+    "purposes": [
+        {
+        "purpose": "Rail transport",
+        "amount" : 2814444
+    }
+                ]
+}
+]
+
